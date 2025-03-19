@@ -1,1 +1,1 @@
-# sudoku-solver
+Sudoku solver that solves a 9x9 sudoku puzzle in C
